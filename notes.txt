@@ -1,0 +1,2 @@
+associated function - the equivalent of static method in c++
+& - reference, reference is immutable by default
