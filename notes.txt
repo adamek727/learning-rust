@@ -1,3 +1,6 @@
 associated function - the equivalent of static method in c++
 & - reference, reference is immutable by default
 constant - is assigned by compile time, let can by assigned in runtime
+statements do not return the value, expressions do
+let y = let x = 6 does not works for Rust
+expression in Rust is missing the semicolon on the end of the line
