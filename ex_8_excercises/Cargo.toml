@@ -1,0 +1,7 @@
+[package]
+name = "ex_8_excercises"
+version = "0.1.0"
+authors = ["adash"]
+edition = "2018"
+
+[dependencies]
