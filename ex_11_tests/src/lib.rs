@@ -43,9 +43,12 @@ mod tests {
     }
 
     #[test]
+    #[ignore]
+    #[should_panic(expected = "Total Fail")]
     fn failde_test() {
         let var1 = 1;
         let var2 = 2;
-        assert_eq!(var1, var2, "This cool test failed");
+        assert_eq!(var1, var2, "Total Fail");
     }
+
 }
