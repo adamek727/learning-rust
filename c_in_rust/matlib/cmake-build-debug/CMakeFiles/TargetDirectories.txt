@@ -1,0 +1,7 @@
+/home/adam/Developer/learning-rust/c_in_rust/matlib/cmake-build-debug/CMakeFiles/install/strip.dir
+/home/adam/Developer/learning-rust/c_in_rust/matlib/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adam/Developer/learning-rust/c_in_rust/matlib/cmake-build-debug/CMakeFiles/matlib.dir
+/home/adam/Developer/learning-rust/c_in_rust/matlib/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/adam/Developer/learning-rust/c_in_rust/matlib/cmake-build-debug/CMakeFiles/list_install_components.dir
+/home/adam/Developer/learning-rust/c_in_rust/matlib/cmake-build-debug/CMakeFiles/install/local.dir
+/home/adam/Developer/learning-rust/c_in_rust/matlib/cmake-build-debug/CMakeFiles/install.dir

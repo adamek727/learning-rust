@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/c_project.dir/main.c.o  -o c_project  -L/home/adam/Developer/learning-rust/rust_in_c/c_project/libs -Wl,-rpath,/home/adam/Developer/learning-rust/rust_in_c/c_project/libs -Wl,-Bstatic -lrust_lib -Wl,-Bdynamic -lpthread -ldl 

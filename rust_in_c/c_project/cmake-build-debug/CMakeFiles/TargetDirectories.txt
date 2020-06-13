@@ -1,0 +1,3 @@
+/home/adam/Developer/learning-rust/rust_in_c/c_project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/adam/Developer/learning-rust/rust_in_c/c_project/cmake-build-debug/CMakeFiles/c_project.dir
+/home/adam/Developer/learning-rust/rust_in_c/c_project/cmake-build-debug/CMakeFiles/edit_cache.dir
